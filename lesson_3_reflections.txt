@@ -11,3 +11,7 @@ R. Help to merge different changes in each local and github repositories.
 
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 R. Harder, it would be hard to review, commit or merge all the changes.  
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+R. Separate branches are better for make anoter function or logic or test experiments that don't affect the master branch, and make
+   changes in the master only if we are really sure the our changes go directly and save time.   
