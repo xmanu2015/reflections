@@ -7,4 +7,7 @@ R. Fork is for cloning directly in github, clone is for cloning from github or l
 repository that could be in local or in github. 
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
-R. Help to merge different changes in each local and github repositories.  
+R. Help to merge different changes in each local and github repositories.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+R. Harder, it would be hard to review, commit or merge all the changes.  
